@@ -1,1 +1,4 @@
 # Webpage-Development-Redesign
+
+WAG Workshops is a young non-profit in Southern Maryland. The WAG Workshops’ mission is, “the prevention of animal cruelty by building a positive training community, offering educational workshops and video library, providing a trade-in program for prong, shock, and e-collars, providing a therapy dog program in partnership with Calvert County Public Schools, and by offering education and training services at low cost or free to the Southern Maryland communities of Calvert, Charles, and St. Mary’s Counties” (Wag Workshops). The directory website for the WAG Workshops organization requires a significant redesign that includes adding more functionalities, cleaning and importing new data, a long-term solution for adding new trainers to the database, and fixing bugs. Our deliverables are redesigned and new developing functionalities on the website with sustainability.  
+
